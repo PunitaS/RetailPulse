@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Data Files (optional if dataset is large)
+data/*.xlsx
+data/*.csv
+
+# Model Files
+*.pkl
+*.joblib
+
+# Logs
+*.log
