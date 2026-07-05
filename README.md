@@ -136,7 +136,7 @@ python -m streamlit run app/streamlit_app.py
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Deep Learning Forecasting (LSTM)
 - Real-time Sales Prediction
@@ -147,8 +147,8 @@ python -m streamlit run app/streamlit_app.py
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Punita Singh**
+Punita Singh
 
-GitHub: https://github.com/PunitaS
+GitHub: [PunitaS](https://github.com/PunitaS)
